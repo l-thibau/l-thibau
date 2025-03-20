@@ -1,11 +1,9 @@
 ## Leonardo Thibau
 
 **Mestrando em Ciências Sociais** | **Sociólogo** | **Bacharel em Humanidades**  
-📍 **Universidade Federal da Bahia (UFBA)**
+📍 **Universidade Federal da Bahia (UFBA)** | Membro e responsável pelo site 🌐 [LABHDUFBA](https://labhdufba.github.io)
 
-🌐 [LABHDUFBA](https://labhdufba.github.io)
-
-Atualmente, sou mestrando em Ciências Sociais na UFBA, com pesquisa em desinformação na saúde e estudos sobre a machosfera. Tenho experiência no desenvolvimento e gestão de sites e ferramentas digitais, sendo responsável pelo site do **LABHDUFBA**. 
+Atualmente, sou mestrando em Ciências Sociais na UFBA, com pesquisa em desinformação na saúde e estudos sobre a machosfera. Tenho experiência no desenvolvimento e gestão de sites e ferramentas digitais, sendo um dos colaboradores do **LABHDUFBA**. 
 
 Minha formação inclui o Bacharelado Interdisciplinar em **Humanidades** e estou cursando minha segunda graduação em **Ciências Sociais**, também na UFBA. Fui integrante do **Grupo SIPSI** (Seminário de Introdução à Teoria Psicanalítica). 
 
