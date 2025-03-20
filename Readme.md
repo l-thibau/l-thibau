@@ -10,7 +10,7 @@ Minha formação inclui o Bacharelado Interdisciplinar em **Humanidades** e esto
 [Meus Slides em Quarto](https://l-thibau.quarto.pub/)
 
 ## Habilidades Técnicas
-- **Linguagens e Ferramentas**: R, Markdown, HTML, Quarto, ElasticSearch, Docker, Zotero e Visual Studio Code
+- **Linguagens e Ferramentas**: R, Markdown, HTML, Quarto, ElasticSearch, Docker, Zotero, Hugo e Visual Studio Code
 - **Desenvolvimento Web**: Criação e manutenção de sites e Web Scraping, com experiência em ambientes colaborativos
 
 ##
@@ -22,9 +22,10 @@ Minha formação inclui o Bacharelado Interdisciplinar em **Humanidades** e esto
   <img align="center" alt="Leo-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Elasticsearch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg">
   <img align="center" alt="Docker" height="50" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Hugo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg">
   <img align="center" alt="Zotero" height="30" width="30" src="https://raw.githubusercontent.com/l-thibau/l-thibau/main/imagens/zotero.256x253.png">
   <a href="https://l-thibau.quarto.pub/" target="_blank">
-    <img align="center" alt="Quarto" height="30" width="35" src="https://raw.githubusercontent.com/l-thibau/l-thibau/main/imagens/quarto.png">
+  <img align="center" alt="Quarto" height="30" width="35" src="https://raw.githubusercontent.com/l-thibau/l-thibau/main/imagens/quarto.png">
   </a>
 </div>
 
