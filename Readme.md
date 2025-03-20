@@ -23,8 +23,8 @@ Minha formação inclui o Bacharelado Interdisciplinar em **Humanidades** e esto
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Elasticsearch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg">
-  <img align="center" alt="Docker" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Zotero" height="30" width="40" src="https://raw.githubusercontent.com/l-thibau/l-thibau/main/imagens/zotero.png">
+  <img align="center" alt="Docker" height="50" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Zotero" height="30" width="40" src="https://raw.githubusercontent.com/l-thibau/l-thibau/main/imagens/zotero.256x253.png">
   <a href="https://l-thibau.quarto.pub/" target="_blank">
     <img align="center" alt="Quarto" height="30" width="35" src="https://raw.githubusercontent.com/l-thibau/l-thibau/main/imagens/quarto.png">
   </a>
