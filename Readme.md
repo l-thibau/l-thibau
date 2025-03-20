@@ -22,7 +22,7 @@ Minha formação inclui uma graduação em **Humanidades** e estou cursando minh
   <img align="center" alt="Leo-Markdown" height="30" width="40" src="https://raw.githubusercontent.com/dcurtis/markdown-mark/master/svg/markdown-mark.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <a href="https://l-thibau.quarto.pub/" target="_blank">
-    <img align="center" alt="Quarto" height="30" width="40" src="https://quarto.org/docs/guide/quarto-icon.svg">
+    <img align="center" alt="Quarto" height="30" width="40" src="C:\Users\leona\Github\l-thibau\imagens\quarto.png">
   </a>
   <img align="center" alt="Leo-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
