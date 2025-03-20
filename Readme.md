@@ -25,7 +25,7 @@ Minha formação inclui o Bacharelado Interdisciplinar em **Humanidades** e esto
   <img align="center" alt="Hugo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg">
   <img align="center" alt="Zotero" height="30" width="30" src="https://raw.githubusercontent.com/l-thibau/l-thibau/main/imagens/zotero.256x253.png">
   <a href="https://l-thibau.quarto.pub/" target="_blank">
-  <img align="center" alt="Quarto" height="30" width="35" src="https://raw.githubusercontent.com/l-thibau/l-thibau/main/imagens/quarto.png">
+  <img align="center" alt="Quarto" height="35" width="30" src="https://raw.githubusercontent.com/l-thibau/l-thibau/main/imagens/quarto.png">
   </a>
 </div>
 
