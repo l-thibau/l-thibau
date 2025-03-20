@@ -9,7 +9,7 @@ Atualmente, sou mestrando em Ciências Sociais na UFBA, com pesquisa em desinfor
 
 Minha formação inclui o Bacharelado Interdisciplinar em **Humanidades** e estou cursando minha segunda graduação em **Ciências Sociais**, também na UFBA. Fui integrante do **Grupo SIPSI** (Seminário de Introdução à Teoria Psicanalítica). 
 
-[Meus Slides](https://l-thibau.quarto.pub/)
+[Meus Slides em Quarto](https://l-thibau.quarto.pub/)
 
 ## Habilidades Técnicas
 - **Linguagens e Ferramentas**: R, Markdown, HTML, Quarto, ElasticSearch, Docker, Zotero e Visual Studio Code
@@ -17,16 +17,17 @@ Minha formação inclui o Bacharelado Interdisciplinar em **Humanidades** e esto
 
 ##
 
-<div style="display: inline_block">
+<div style="display: inline-block;">
   <img align="center" alt="Leo-R" height="30" width="40" src="https://www.r-project.org/logo/Rlogo.svg">
   <img align="center" alt="Leo-Markdown" height="30" width="40" src="https://raw.githubusercontent.com/dcurtis/markdown-mark/master/svg/markdown-mark.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Elasticsearch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg">
-  <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Zotero" height="30" width="40" src="https://raw.githubusercontent.com/l-thibau/l-thibau/main/imagens/zotero.png"> </a>
+  <img align="center" alt="Docker" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Zotero" height="30" width="40" src="https://raw.githubusercontent.com/l-thibau/l-thibau/main/imagens/zotero.png">
   <a href="https://l-thibau.quarto.pub/" target="_blank">
-  <img align="center" alt="Quarto" height="30" width="40" src="https://raw.githubusercontent.com/l-thibau/l-thibau/main/imagens/quarto.png"> </a>
+    <img align="center" alt="Quarto" height="30" width="35" src="https://raw.githubusercontent.com/l-thibau/l-thibau/main/imagens/quarto.png">
+  </a>
 </div>
 
 ##
