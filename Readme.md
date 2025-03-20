@@ -3,9 +3,9 @@
 **Mestrando em Sociologia** | **Licenciatura em Ciências Sociais** | **Bacharelado em Humanidades**  
 📍 **Universidade Federal da Bahia (UFBA)** | Membro e responsável pelo site 🌐 [LABHDUFBA](https://labhdufba.github.io)
 
-Atualmente, sou mestrando em Ciências Sociais na UFBA, com pesquisa em desinformação na saúde e estudos sobre a machosfera. Tenho experiência no desenvolvimento e gestão de sites e ferramentas digitais, sendo um dos colaboradores do **LABHDUFBA**. 
+Atualmente sou mestrando em Ciências Sociais na UFBA, com pesquisa em desinformação na saúde e estudos sobre a machosfera. Tenho experiência no desenvolvimento e gestão de sites e ferramentas digitais, sendo um dos colaboradores do **LABHDUFBA**. 
 
-Minha formação inclui o Bacharelado Interdisciplinar em **Humanidades** e estou concluindo a segunnda graduação em **Ciências Sociais**, também na UFBA. Fui integrante do **Grupo SIPSI** (Seminário de Introdução à Teoria Psicanalítica). 
+Minha formação inclui o Bacharelado Interdisciplinar em **Humanidades** e estou concluindo a segunda graduação em **Ciências Sociais**, também na UFBA. Fui integrante do **Grupo SIPSI** (Seminário de Introdução à Teoria Psicanalítica). 
 
 [Meus Slides em Quarto](https://l-thibau.quarto.pub/)
 
